@@ -23,9 +23,10 @@ data cleaning, transformation, and trend analysis with pandas in Jupyter.
 
 | File | Purpose |
 |---|---|
-| `P1 - investigate-a-dataset.ipynb` | Main analysis notebook |
-| `P1 - investigate-a-dataset.html` | Rendered read-only version |
+| `tmdb_analysis.ipynb` | Main analysis notebook |
+| `tmdb_analysis.html` | Rendered read-only version |
 | `tmdb-movies.csv` | Source dataset |
+| `references.txt` | Sources consulted during the analysis |
 
 ## Honest limitations
 
